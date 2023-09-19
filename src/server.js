@@ -3,8 +3,8 @@
 const express = require('express');
 const cors = require('cors');
 
-const logger = require('./middleware/logger');
-const validator = require('./middlewares/validator');
+const logger = require('./middleware/logger.js');
+const validator = require('./middlewares/validator.js');
 const notFoundHandler = require('./errorhandler/404');
 const serverErrorHandler = require('./errorhandler/500');
 
