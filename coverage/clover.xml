@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1695165570084" clover="3.2.0">
-  <project timestamp="1695165570084" name="All files">
+<coverage generated="1695167681218" clover="3.2.0">
+  <project timestamp="1695167681218" name="All files">
     <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="16" coveredelements="16" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
     <file name="logger.js" path="/home/arkuris/projects/Class-401/basic-express-server/src/middlewares/logger.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
